@@ -16,13 +16,13 @@ Users can create tasks by providing a title and content.
 Make sure you have Node.js and npm installed. You can download and install Node.js from here.
 <h3>Steps</h3>
 <b>Clone the repository to your local machine:</b><br />
-git clone https://github.com/ibitwarvedant/task-management-app.git
+git clone https://github.com/ibitwarvedant/task-management-app.git<br />
 <b>Navigate to the project directory:</b><br />
-cd task-management-app
+cd task-management-app<br />
 <b>Install dependencies:</b><br />
-npm install
+npm install<br />
 <b>Start the development server:</b><br />
-npm run dev
+npm run dev<br />
 The app will be running on [http://localhost:3000](http://localhost:5173/).
 <h2>Usage</h2>
 <b>Add a Task:</b> Enter a title and content, then click the "Add" button to create a new task.<br />
